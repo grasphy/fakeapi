@@ -183,58 +183,7 @@
 						"text": "Accessories",
 						"data": 34
 					},
-					{
-						"text": "Desktop Computers",
-						"data": 7
-					},
-					{
-						"text": "Flat Screens",
-						"data": 2
-					},
-					{
-						"text": "Keyboards",
-						"data": 4
-					},
-					{
-						"text": "Laptops",
-						"data": 11
-					},
-					{
-						"text": "Printers",
-						"data": 9
-					},
-					{
-						"text": "Smartphones and Tablets",
-						"data": 9
-					},
-					{
-						"text": "Mice",
-						"data": 7
-					},
-					{
-						"text": "Computer System Accessories",
-						"data": 8
-					},
-					{
-						"text": "Graphics Card",
-						"data": 4
-					},
-					{
-						"text": "Scanners",
-						"data": 4
-					},
-					{
-						"text": "Speakers",
-						"data": 3
-					},
-					{
-						"text": "Software",
-						"data": 8
-					},
-					{
-						"text": "Telekommunikation",
-						"data": 3
-					},
+					
 					{
 						"text": "Servers",
 						"data": 3
@@ -252,42 +201,7 @@
 					"text": "Titanium",
 					"data": 21
 				  },
-				  {
-					"text": "Technocom",
-					"data": 22
-				  },
-				  {
-					"text": "Red Point Stores",
-					"data": 7
-				  },
-				  {
-					"text": "Very Best Screens",
-					"data": 14
-				  },
-				  {
-					"text": "Smartcards",
-					"data": 2
-				  },
-				  {
-					"text": "Alpha Printers",
-					"data": 5
-				  },
-				  {
-					"text": "Printer for All",
-					"data": 8
-				  },
-				  {
-					"text": "Oxynum",
-					"data": 8
-				  },
-				  {
-					"text": "Fasttech",
-					"data": 15
-				  },
-				  {
-					"text": "Ultrasonic United",
-					"data": 15
-				  },
+				  
 				  {
 					"text": "Speaker Experts",
 					"data": 3
